@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Enrico Marino",
+    "email": "enrico.marino@email.com",
+    "site": "http://onirame.no.de"
+  },
+  "name": "css-reset",
+  "description": "css reset",
+  "version": "0.0.1",
+  "homepage": "https://github.com/onirame/css-reset",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onirame/css-reset.git"
+  }
+}
