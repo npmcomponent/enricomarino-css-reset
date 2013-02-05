@@ -2,6 +2,10 @@
 
 css reset
 
+## Installation
+
+    $ component install onirame/css-reset
+
 ## License
 
 (The MIT License)
