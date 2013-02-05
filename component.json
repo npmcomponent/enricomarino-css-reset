@@ -1,0 +1,12 @@
+{
+  "name": "css-reset",
+  "repo": "onirame/css-reset",
+  "description": "CSS reset component",
+  "version": "0.0.1",
+  "keywords": ["css", "reset"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": ["index.css"],
+  "scripts": []
+}
