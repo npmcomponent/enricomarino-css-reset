@@ -4,7 +4,7 @@ css reset
 
 ## Installation
 
-    $ component install onirame/css-reset
+    $ component install enricomarino/css-reset
 
 ## License
 
