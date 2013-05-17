@@ -6,9 +6,9 @@
   "name": "css-reset",
   "description": "css reset",
   "version": "0.0.1",
-  "homepage": "https://github.com/onirame/css-reset",
+  "homepage": "https://github.com/enricomarino/css-reset",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/css-reset.git"
+    "url": "git://github.com/enricomarino/css-reset.git"
   }
 }
