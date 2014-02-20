@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [enricomarino/css-reset](http://github.com/enricomarino/css-reset). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/enricomarino-css-reset`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # css-reset
 
 css reset

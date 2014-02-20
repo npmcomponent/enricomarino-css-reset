@@ -1,14 +1,13 @@
 {
-  "author": {
-    "name": "Enrico Marino",
-    "url": "http://onirame.com"
-  },
-  "name": "css-reset",
-  "description": "css reset",
-  "version": "0.0.1",
-  "homepage": "https://github.com/enricomarino/css-reset",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/enricomarino/css-reset.git"
-  }
+  "name": "enricomarino-css-reset",
+  "description": "CSS reset component",
+  "keywords": [
+    "css",
+    "reset"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
